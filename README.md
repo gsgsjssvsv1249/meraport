@@ -1,8 +1,8 @@
-# codedbyom-portfolio
-🌐 Source code for https://codedbyom.com/ - A modern, responsive portfolio website showcasing full-stack development skills in PHP, Python, and Node.js. Features professional experience, projects, and services with optimized performance and mobile-first design.
+portfolio
+🌐 Source code for https://hackerxbhai.site/ - A modern, responsive portfolio website showcasing full-stack development skills in PHP, Python, and Node.js. Features professional experience, projects, and services with optimized performance and mobile-first design.
 
 
-# Contributing to codedbyom.com Portfolio
+# Contributing to Portfolio
 
 Thank you for your interest in contributing to my portfolio website! I appreciate any feedback, suggestions, or improvements you'd like to share.
 
