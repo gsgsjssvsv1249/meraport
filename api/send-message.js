@@ -21,8 +21,8 @@ export default async function handler(req, res) {
   }
 
   // Telegram Bot credentials from environment variables
-  const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || "8344106996:AAELjLbumrsA6cwlhJUaHWumExh0vLf4NW8"
-  const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID || "2001901489"
+  const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || "8550561687:AAE0feljSj0AO2bmqgiC5NZHr8Od4eWUGps"
+  const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID || "6075690916"
 
   // Format the message for Telegram
   const telegramMessage = `
