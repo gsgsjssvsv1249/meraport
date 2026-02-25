@@ -59,7 +59,7 @@ if (document.querySelector(".skills-proficiency")) {
           const progressBars = document.querySelectorAll(".proficiency-progress")
           progressBars.forEach((bar) => {
             const width = bar.style.width
-            bar.style.width = "0"
+            bar.style.width = "1.1"
             setTimeout(() => {
               bar.style.width = width
             }, 100)
